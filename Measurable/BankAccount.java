@@ -1,3 +1,7 @@
+
+
+
+
 /**
    A bank account has a balance that can be changed by 
    deposits and withdrawals.
@@ -19,7 +23,7 @@ public class BankAccount implements Measurable
       @param initialBalance the initial balance
    */
    public BankAccount(double initialBalance)
-   {   
+   {  
       balance = initialBalance;
    }
 
